@@ -4,7 +4,7 @@ A command line interface to get a fun machine learning question everyday in your
 
 The questions are originally posted by [**0xbnomial**](https://twitter.com/0xbnomial) at [**bnomial.com**](https://today.bnomial.com/).
 
-https://user-images.githubusercontent.com/73115739/186963932-7e25cea6-e1b7-4a89-a92c-14e5e04c45da.mp4
+![bnomial-cli](https://user-images.githubusercontent.com/73115739/187030696-74c76a79-5835-4c92-b81a-42fb2420b9ab.gif)
 
 
 ## 🔭 Installation
