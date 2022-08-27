@@ -1,10 +1,11 @@
 # bnomial-cli
 
-A command line interface for [**bnomial**](https://today.bnomial.com/)
+A command line interface to get a fun machine learning question everyday in your terminal!
 
-
+The questions are originally posted by [**0xbnomial**](https://twitter.com/0xbnomial) at [**bnomial.com**](https://today.bnomial.com/).
 
 https://user-images.githubusercontent.com/73115739/186963932-7e25cea6-e1b7-4a89-a92c-14e5e04c45da.mp4
+
 
 ## 🔭 Installation
 ---
@@ -43,3 +44,14 @@ cd target/release/
 
 ---
 <br />
+
+## Further Improvements
+
+There is still a huge scope for improvements:
+- User Authentication
+- Caching the today's question locally
+- Open Issues etc.
+
+> Fork, Commit, PR, Repeat..
+
+If you liked this, please let me know! That will motivate me to work on it more <3
