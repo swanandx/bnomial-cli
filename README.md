@@ -48,7 +48,7 @@ cd target/release/
 ## Further Improvements
 
 There is still a huge scope for improvements:
-- User Authentication
+- User login
 - Caching the today's question locally
 - Open Issues etc.
 
